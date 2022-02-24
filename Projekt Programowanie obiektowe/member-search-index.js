@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"pl.erwin","c":"AplikacjaBankowa","l":"AplikacjaBankowa()","u":"%3Cinit%3E()"},{"p":"pl.erwin","c":"AplikacjaBankowa","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
